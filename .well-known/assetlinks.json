@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.williamParedes.miselanios",
+      "sha256_cert_fingerprints":
+      ["52:31:23:A4:F1:75:D0:1C:C8:E4:F8:ED:05:79:9D:BD:57:00:47:DA:D2:67:EB:92:AE:52:A7:16:72:AE:33:4E"]
+    }
+  }]
